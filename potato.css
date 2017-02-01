@@ -37,7 +37,6 @@ left:23px;
 
 
 
-
 /* Insert CSS for eyes below this line*/
 
 
@@ -82,7 +81,14 @@ left:23px;
 
 
 /* Insert CSS for moustache below this line*/
+#moustache_image { 
 
+  width: 100px;
+  height: 50px;
+  top: 100px;
+  right: 130px;
+
+}
 
 
 
