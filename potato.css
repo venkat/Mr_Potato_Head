@@ -50,7 +50,10 @@ left:23px;
 
 
 /* Insert CSS for eyebrows below this line*/
-
+#eyebrows_image{
+  top:35px;
+  left:100px;
+}
 
 
 
