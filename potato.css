@@ -35,10 +35,10 @@ left:23px;
 
 
 /* Insert CSS for eyes below this line*/
-
-
-
-
+#eyes_image {
+  top: 100px;
+  left: 130px;
+}
 /* Insert CSS for mouth below this line*/
 
 
